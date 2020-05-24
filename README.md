@@ -1,0 +1,2 @@
+# guess-a-number
+This project was devoloped in the course React Native - The Practical Guide 2020, taught by Maximilian Schwarzmüller from AcadeMind, on the Udemy Platform. In this app, which was created by using Expo, the user inputs a number and the computer tries to guess it. In the end it shows the number of guesses needed to end the game. In this section of the course, we learned how to set our layout for different devices and how to adapt our screen when the device rotates, by using Platform and Dimensions objects.
